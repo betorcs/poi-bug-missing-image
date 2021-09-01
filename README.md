@@ -10,6 +10,9 @@ java-16
 
 Running the existing test will create a docx in the user Desktop dir.
 
+> Here is a sample of docx generated missing the image. [generated-report.docx](./assets/generated-report.docx)
+
+
 ```bash
 ./gradlew test
 ```
