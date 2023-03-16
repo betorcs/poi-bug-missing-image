@@ -2,7 +2,7 @@
 
 This project demonstrates that on generate a DOCX from another DOCX with images. Neither all images added are shown  MS Word for Mac nor MS Word for Windows.
  
-### Requirements
+### Requirements 
 
 java-16
 
